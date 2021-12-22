@@ -2,7 +2,8 @@
 This a docker version of e-Book. For more details, you can refer to [my blog](https://www.kami-code.com/2021/12/18/SE3353-assignment10/).
 
 ## Description
-You can visit the [repository]((https://github.com/Kami-code/e-Book)) for more description about APIs. The nginx is listening on port 80 and distributes the request to port 9000 and port 9001 through polling. Redis is on port 6379. MongoDB is on port 27017. MySQL is on port 3306. Neo4j is on port 7687 and 7474.(The related code is disabled for unsolved bug when using Neo4j on cluster environment.)
+The docker environment only contains the backend of the e-book.
+You can visit the [repository]((https://github.com/Kami-code/e-Book)) for more description about APIs. The nginx is listening on port 80 and distributes the request to port 9000 and port 9001 through polling. Redis is on port 6379. MongoDB is on port 27017. MySQL is on port 3306. Neo4j is on port 7687 and 7474.(The related code is disabled for an unsolved bug when I used Neo4j in the cluster environment.)
 
 ## Install
 
