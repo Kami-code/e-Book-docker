@@ -1,5 +1,5 @@
 # e-Book-docker
-This a docker version of e-Book. For more details, you can refer to [my blog](https://www.kami-code.com/2021/12/18/SE3353-assignment10/).
+This a docker version of e-Book. For more details, you can refer to [my blog](https://www.chenbao.tech/blog/2021/12/18/SE3353-assignment10/).
 
 ## Description
 The docker environment only contains the backend of the e-book.
